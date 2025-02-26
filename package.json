@@ -1,0 +1,13 @@
+{
+  "name": "vvken-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:website": "pnpm --filter @vvkenblog/website dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@9.12.1"
+}
