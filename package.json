@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev:website": "pnpm --filter @vvkenblog/website dev"
+    "dev:website": "pnpm --filter @vvkenblog/website dev",
+    "dev:server": "pnpm --filter @vvkenblog/server start:dev"
   },
   "keywords": [],
   "author": "",
